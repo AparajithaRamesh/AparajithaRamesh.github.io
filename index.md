@@ -1,4 +1,4 @@
-# Home Page (index.md)
+
 
 ---
 layout: home
