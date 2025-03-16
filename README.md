@@ -1,2 +1,0 @@
-# AparajithaRamesh.github.io
-website
