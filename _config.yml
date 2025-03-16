@@ -1,3 +1,11 @@
 title: "Aparajitha Ramesh"
 description: "My academic website"
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
+
+# Navigation menu
+navbar_links:
+  Home: /
+  Publications: /publications
+  News: /news
+  Contact: /contact
+  Others: /others
